@@ -1,0 +1,17 @@
+[
+  {
+    "name": "تيشيرت قطن",
+    "price": "350 ج.م",
+    "image": "https://via.placeholder.com/400x300?text=T-Shirt"
+  },
+  {
+    "name": "حذاء رياضي",
+    "price": "720 ج.م",
+    "image": "https://via.placeholder.com/400x300?text=Shoes"
+  },
+  {
+    "name": "شنطة جلد",
+    "price": "499 ج.م",
+    "image": "https://via.placeholder.com/400x300?text=Bag"
+  }
+]
